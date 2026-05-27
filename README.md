@@ -1,1 +1,1 @@
-# -Salary-Calculator-CPP.
+# C++ exercice for beginners.
